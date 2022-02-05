@@ -15,6 +15,7 @@
 		CA8D5EB727AD901800E10384 /* DalyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5EB627AD901800E10384 /* DalyScrum.swift */; };
 		CA8D5EB927AE354600E10384 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5EB827AE354600E10384 /* CardView.swift */; };
 		CA8D5EBB27AE38BA00E10384 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5EBA27AE38BA00E10384 /* TrailingIconLabelStyle.swift */; };
+		CA8D5EBD27AE3D5C00E10384 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5EBC27AE3D5C00E10384 /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		CA8D5EB627AD901800E10384 /* DalyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DalyScrum.swift; sourceTree = "<group>"; };
 		CA8D5EB827AE354600E10384 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		CA8D5EBA27AE38BA00E10384 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
+		CA8D5EBC27AE3D5C00E10384 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CA8D5EA527AD859800E10384 /* ScrumdingerApp.swift */,
 				CA8D5EB827AE354600E10384 /* CardView.swift */,
 				CA8D5EA727AD859800E10384 /* MeetingView.swift */,
+				CA8D5EBC27AE3D5C00E10384 /* ScrumsView.swift */,
 				CA8D5EBA27AE38BA00E10384 /* TrailingIconLabelStyle.swift */,
 				CA8D5EA927AD859900E10384 /* Assets.xcassets */,
 				CA8D5EAB27AD859900E10384 /* Preview Content */,
@@ -160,6 +163,7 @@
 				CA8D5EB527AD8E0000E10384 /* Theme.swift in Sources */,
 				CA8D5EBB27AE38BA00E10384 /* TrailingIconLabelStyle.swift in Sources */,
 				CA8D5EA827AD859800E10384 /* MeetingView.swift in Sources */,
+				CA8D5EBD27AE3D5C00E10384 /* ScrumsView.swift in Sources */,
 				CA8D5EB727AD901800E10384 /* DalyScrum.swift in Sources */,
 				CA8D5EA627AD859800E10384 /* ScrumdingerApp.swift in Sources */,
 				CA8D5EB927AE354600E10384 /* CardView.swift in Sources */,
