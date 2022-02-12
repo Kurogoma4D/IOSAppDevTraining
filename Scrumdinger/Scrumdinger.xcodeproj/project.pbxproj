@@ -24,6 +24,7 @@
 		CA8D5EC927B1411A00E10384 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5EC827B1411A00E10384 /* ScrumProgressViewStyle.swift */; };
 		CA8D5ECB27B7744D00E10384 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5ECA27B7744C00E10384 /* ScrumTimer.swift */; };
 		CA8D5ECD27B7854C00E10384 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5ECC27B7854C00E10384 /* MeetingFooterView.swift */; };
+		CA8D5ED127B7978100E10384 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8D5ED027B7978100E10384 /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		CA8D5EC827B1411A00E10384 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 		CA8D5ECA27B7744C00E10384 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		CA8D5ECC27B7854C00E10384 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
+		CA8D5ED027B7978100E10384 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				CA8D5EB427AD8E0000E10384 /* Theme.swift */,
 				CA8D5EB627AD901800E10384 /* DalyScrum.swift */,
 				CA8D5ECA27B7744C00E10384 /* ScrumTimer.swift */,
+				CA8D5ED027B7978100E10384 /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				CA8D5EC127AEBED200E10384 /* DetailEditView.swift in Sources */,
 				CA8D5EBB27AE38BA00E10384 /* TrailingIconLabelStyle.swift in Sources */,
 				CA8D5EA827AD859800E10384 /* MeetingView.swift in Sources */,
+				CA8D5ED127B7978100E10384 /* History.swift in Sources */,
 				CA8D5EBD27AE3D5C00E10384 /* ScrumsView.swift in Sources */,
 				CA8D5EB727AD901800E10384 /* DalyScrum.swift in Sources */,
 				CA8D5EA627AD859800E10384 /* ScrumdingerApp.swift in Sources */,
